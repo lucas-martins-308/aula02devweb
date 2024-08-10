@@ -1,0 +1,62 @@
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero {
+    width: 593px;
+    height: 579px;
+    left: 340px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-family: Inter;
+    size: 49px;
+    text-shadow: 0px 2px 5px #00000040;
+   
+
+}
+
+.t {
+    color: #0075FF;
+
+}
+
+img {
+    width: 348px;
+    height: 223px;
+    left: 474px;
+    gap: 0px;
+    opacity: 0px;
+    margin-bottom: 40px;
+ 
+}
+
+
+p {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    color: #7d7987;
+    margin-bottom: 40px;
+}
+
+.p {
+    color: #0075FF;
+}
+
+.footer {
+    width: 592px;
+    text-align: center;
+    border-top: 1px solid #ECEFF2;
+    
+}
+
+a {
+    font-family: "Open Sans", sans-serif;
+    size: 14px;
+    color: #0075FF;
+}
